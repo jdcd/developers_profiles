@@ -1,0 +1,2 @@
+in this folder we'll have implementations about domain interfaces, when those implementations involves three party
+technologies, this folder will have also external entry points, such as rest service or GraphQL
